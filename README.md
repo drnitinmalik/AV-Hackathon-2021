@@ -1,15 +1,19 @@
-# Pre-regression steps, Regression model, Post-regression analysis
+# Analytics Vidhya Hackathon Nov 2021
 
-In regression (also known as function approximation), we are interested in predicting one (dependent) variable from one or more (independent) variables (of any datatype). If we have one independent variable it is simple regression e.g, predicting height from the weight. If there are more than one, it is multiple regression e.g. predicting height from weight and age.
+Domain: Finance Credit Risk
 
-Regression implies causation. Change in the dependent variable is due to the change in the independent variable.
+**Problem Statement**: How to decide whether to approve loan or not?
 
-Linear regression implies that the relationship between the dependent variable and independent variable is linear and thus can be described by a straight line known as the **regression line**. We are in the process of finding a regression line that fits (touches) the maximum number of data points (no. of data points = no. of records in dataset).
+Existing Alternative: Loan Officer
 
-The inability of the regression line to touch all the training data points is called bias. A machine learning model with high bias pays little attention to the training data and oversimplifies the model. [click to tweet](https://clicktotweet.com/6Rcfz)
+**Proposed Solution**: Using Machine Learning binary classifier to predict  to predict whether a loan application will be approved by Dream Housing Finance Company
 
-When the same regression model is run on the test dataset, the model performance metric is reevaluated. If the metric value on test data is less than that obtained on training data, the model is said to be **overfitting**. If it's other way around, then the model is said to be **underfitting**. This difference in fits (bias) between different datasets (training and testing dataset in our case) is called **variance**. Variance is related to a model failing to fit the test dataset. A model with high variance does not generalises well on the test dataset and is said to be overfitted.
+Key metrics: Accuracy
 
-Continue reading at [linkedin](https://www.linkedin.com/pulse/simple-linear-regression-overview-nitin-malik/) 
+Target Customer: Banks and Financial Institutions
 
-The [python code](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py) and the [data file](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv) is on github.
+Purpose: To automate the loan eligibility process
+
+Data Source: [Kaggle] (https://www.kaggle.com/ninzaami/loan-predication/home)
+
+The [python code](https://github.com/drnitinmalik/AV-Hackathon-2021/blob/main/binary-classifier-loan.ipynb) and the [data file](https://github.com/drnitinmalik/AV-Hackathon-2021) is on github.
