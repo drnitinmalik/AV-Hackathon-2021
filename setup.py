@@ -7,9 +7,9 @@ from typing import Tuple, List
 from setuptools import Command, setup
 
 # Package meta-data
-name = "simple-linear-regression_python"
-description = "Simple Linear Regression in Python"
-url = "https://github.com/drnitinmalik/simple-linear-regression"
+name = "AV-Hackathon-2021_python"
+description = "Analytics Vidhya Hackathon 2021"
+url = "https://github.com/drnitinmalik/AV-Hackathon-2021"
 email = "nitinmalik77@gmail.com"
 author = "Nitin Malik"
 requires_python = ">=3.0.0"
