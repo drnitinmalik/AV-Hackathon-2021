@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title: Simple Linear Regression
-tagline: Regression line, Overfitting, Underfitting, Bias, Variance
-description: Pre-regression steps, Regression model, Post-regression analysis
-baseurl: /simple-linear-regression/
+title: Analytics Vidhya Hackathon 2021
+tagline: Classification line, Binary classifier, Logistic Regression
+description: A binary classifier to predict the whether a loan application will be approved by financial institution
+baseurl: /AV-Hackathon-2021/
 url: https://drnitinmalik.github.io
 show_downloads: true
 future: true
@@ -30,7 +30,7 @@ social-network-links:
 #  reddit: yourname
   linkedin: drnitinmalik
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "15199229/nitin-malik"
 #  instagram: deanat78
 #  youtube: user/drnitinmalik
 #  telephone: +918010529215
@@ -40,7 +40,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  google-scholar: your google scholar
+  google-scholar: cysqi8oAAAAJ&hl
 # rss-description: RSS Link
 
 # Select which social network share links to show in posts
