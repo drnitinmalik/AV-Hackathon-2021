@@ -1,5 +1,7 @@
 # Analytics Vidhya Hackathon Nov 2021
 
+We attempted Challenge on Loan Prediction. Details at https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
+
 Domain: Finance Credit Risk
 
 **Problem Statement**: How to decide whether to approve loan or not?
@@ -17,3 +19,5 @@ Purpose: To automate the loan eligibility process
 Data Source: [Kaggle] (https://www.kaggle.com/ninzaami/loan-predication/home)
 
 The [python code](https://github.com/drnitinmalik/AV-Hackathon-2021/blob/main/binary-classifier-loan.ipynb) and the [data file](https://github.com/drnitinmalik/AV-Hackathon-2021) is on github.
+
+Classification Accuracy on Logistic Regression Model obtained was 77.78%
